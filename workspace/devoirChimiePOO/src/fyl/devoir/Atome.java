@@ -1,5 +1,5 @@
 package fyl.devoir;
-
+// this is a comment to know the change file
 public class Atome implements Comparable<Object>{
 	
 	private String nom;
