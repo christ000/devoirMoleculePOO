@@ -1,5 +1,6 @@
 package fyl.devoir;
 // this is a comment to know the change file
+// this project works properly and i do not no why
 public class Atome implements Comparable<Object>{
 	
 	private String nom;
