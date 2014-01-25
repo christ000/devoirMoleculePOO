@@ -1,6 +1,7 @@
 package fyl.devoir;
 // this is a comment to know the change file
-// this project works properly and i do not no why
+// this project works properly and I do not no why
+// now I will try to add the author's name and the modification's date 
 public class Atome implements Comparable<Object>{
 	
 	private String nom;
